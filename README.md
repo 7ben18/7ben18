@@ -1,4 +1,3 @@
-# 7ben18
 :name_badge: Name: Ben 
 
 :mortar_board: Class: Data Scientist
