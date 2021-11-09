@@ -1,19 +1,24 @@
 # 7ben18
 
 
-#:name_badge: Name: Ben 
-#:mortar_board: Class: Data Scientist
-#:arrow_double_up: Level: 1
+:name_badge: Name: Ben 
 
-#:earth_asia: Habitat: Earthland, Swizterland
-#:deciduous_tree: Health: :heart::heart::heart::heart::heart::heart::heart::heart::heart::heart:
+:mortar_board: Class: Data Scientist
 
-#:fire: Attack power: 
-##:snake: Python: :heart:
-##:cyclone: R: :heart::heart:
-##:sunny: SQL: :heart:
-##:cloud: NoSQL: :heart:
+:arrow_double_up: Level: 1
 
-#:seedling: XP: 1
+:earth_asia: Habitat: Earthland, Swizterland
 
-#:unlock: Drops: Teardrops (0 - 3)
+:deciduous_tree: Health: :heart::heart::heart::heart::heart::heart::heart::heart::heart::heart:
+
+:fire: Attack power: 
+:snake: Python: :heart:
+:cyclone: R: :heart::heart:
+
+:sunny: SQL: :heart:
+
+:cloud: NoSQL: :heart:
+
+:seedling: XP: 1
+
+:unlock: Drops: Teardrops (0 - 3)
