@@ -12,11 +12,9 @@
 :deciduous_tree: Health: :heart::heart::heart::heart::heart::heart::heart::heart::heart::heart:
 
 :fire: Attack power: 
-:snake: Python: :heart:
+:snake: Python: :heart: 
 :cyclone: R: :heart::heart:
-
 :sunny: SQL: :heart:
-
 :cloud: NoSQL: :heart:
 
 :seedling: XP: 1
