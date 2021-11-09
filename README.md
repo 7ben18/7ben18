@@ -19,4 +19,4 @@
 
 :seedling: XP: 1
 
-:unlock: Drops: Teardrops (0 - 3)
+:unlock: Drops: Data Science Tear (0 - 2)
