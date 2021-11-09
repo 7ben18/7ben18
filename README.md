@@ -15,7 +15,7 @@
 :snake: Python: :heart:, 
 :cyclone: R: :heart::heart:,
 :sunny: SQL: :heart:,
-:cloud: NoSQL: :heart:
+:cloud: NoSQL:
 
 :seedling: XP: 1
 
