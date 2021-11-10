@@ -12,7 +12,7 @@
 :snake: Python: :heart:, 
 :cyclone: R: :heart::heart:,
 :sunny: SQL: :heart:,
-:cloud: NoSQL:
+:cloud: NoSQL: :broken_heart:
 
 :seedling: XP: 1
 
