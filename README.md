@@ -4,7 +4,7 @@
 
 :arrow_double_up: Level: 1
 
-:earth_asia: Habitat: Earthland, Swizterland
+:earth_asia: Habitat: Earthland, Switzerland
 
 :deciduous_tree: Health: :heart::heart::heart::heart::heart::heart::heart::heart::heart::heart:
 
