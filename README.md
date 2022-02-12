@@ -2,7 +2,7 @@
 
 :mortar_board: Class: Data Scientist
 
-:arrow_double_up: Level: 1
+:arrow_double_up: Level: 2
 
 :earth_asia: Habitat: Earthland, Switzerland
 
@@ -14,6 +14,6 @@
 :sunny: SQL: :heart:,
 :cloud: NoSQL: :broken_heart:
 
-:seedling: XP: 1
+:seedling: XP: 5
 
 :unlock: Drops: Data Science Tear (0 - 2)
