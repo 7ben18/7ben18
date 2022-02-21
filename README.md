@@ -14,6 +14,6 @@
 :sunny: SQL: :heart:,
 :cloud: NoSQL: :broken_heart:
 
-:seedling: XP: 5
+:seedling: XP: 28
 
 :unlock: Drops: Data Science Tear (0 - 2)
