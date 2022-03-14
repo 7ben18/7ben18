@@ -12,7 +12,6 @@
 :snake: Python: :heart:, 
 :cyclone: R: :heart:,
 :sunny: SQL: :heart:,
-:cloud: NoSQL: :broken_heart:
 
 :seedling: XP: 28
 
