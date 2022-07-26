@@ -13,6 +13,6 @@
 :cyclone: R: :heart:,
 :sunny: SQL: :heart:,
 
-:seedling: XP: 28
+:seedling: XP: 67
 
 :unlock: Drops: Data Science Tear (0 - 2)
