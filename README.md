@@ -2,7 +2,7 @@
 
 :mortar_board: Class: Data Science
 
-:arrow_double_up: Level: 2
+:arrow_double_up: Level: 3
 
 :earth_asia: Habitat: Earthland, Switzerland
 
