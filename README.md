@@ -9,3 +9,4 @@
 :boom: Hidden power: :panda_face: pandas :arrow_upper_right: numpy :chart_with_upwards_trend: matplotlib :bar_chart: seaborn :deciduous_tree: sklearn <br/>
 :seedling: 68 <br/>
 :unlock: Drops: Data Science Tear (0 - 2) <br/>
+:droplet: almost dropped one in gml MC2 (24.11.22)
