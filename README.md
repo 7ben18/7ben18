@@ -1,4 +1,14 @@
 
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Ben :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2>     
+
+<h2 align="left">👨🏻‍💻 Game stats:</h2>
 
 :name_badge: Name: Ben <br/>
 :mortar_board: Class: Data Science <br/>
@@ -10,3 +20,7 @@
 :seedling: 105 <br/>
 :unlock: Drops: Data Science Tear (0 - 2) <br/>
 :droplet: almost dropped one in gml MC2 (24.11.22)
+
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-7ben18-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ben-t-7750b214a/)](https://www.linkedin.com/in/ben-t-7750b214a/)
