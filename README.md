@@ -8,9 +8,9 @@ Hi there, I am Ben <img src="https://user-images.githubusercontent.com/42378118/
 | :arrow_double_up: Level | 5 |
 | :earth_asia: Habitat | Switzerland |
 | :deciduous_tree: Health | :heart::heart::heart::heart::heart::heart::heart::heart::heart::heart: |
-| :fire: Attack power | :snake: Python :heart::heart: :cyclone: R :broken_heart: :sunny: SQL :heart: |
+| :fire: Attack power | :snake: Python :heart::heart::heart: :cyclone: R :heart::heart::heart: :sunny: SQL :heart::heart::heart: |
 | :boom: Hidden power | :panda_face: pandas :arrow_upper_right: numpy :chart_with_upwards_trend: matplotlib :bar_chart: seaborn :deciduous_tree: sklearn ⚙ pytorch 🧹 wandb | 
-| :seedling: XP | 143 | 
+| :seedling: XP | 145 | 
 | :unlock: Drops | Data Science Tear (0 - 2) |
 | 🔐 Hidden Drops | M-O |
 
