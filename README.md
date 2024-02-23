@@ -5,12 +5,12 @@ Hi there, I am Ben <img src="https://user-images.githubusercontent.com/42378118/
 |-----------|-------|
 | :name_badge: Name | Ben |
 | :mortar_board: Class | Data Science |
-| :arrow_double_up: Level | 5 |
+| :arrow_double_up: Level | 6 |
 | :earth_asia: Habitat | Switzerland |
 | :deciduous_tree: Health | ❤️❤️❤️❤️❤️❤️❤️❤️❤️ |
 | :fire: Attack power | 🐍 Python ❤️❤️❤️ 🌀 R ❤️❤️❤️ 🍂 SQL ❤️❤️❤️ |
 | :boom: Hidden power | 🐼 pandas ↪️ numpy 📈 matplotlib 📊 seaborn 📉 plotly <br> 🌲 sklearn 🔥 pytorch 🧹 wandb | 
-| :seedling: XP | 145/180  <br> ✅✅✅✅⬜⬜| 
+| :seedling: XP | 173/180  <br> ✅✅✅✅✅⬜| 
 | :unlock: Drops | Data Science Tear (0 - 2) |
 | 🔐 Hidden Drops | M-O |
 
