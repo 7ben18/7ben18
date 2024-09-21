@@ -10,7 +10,7 @@ Hi there, I am Ben <img src="https://user-images.githubusercontent.com/42378118/
 | :deciduous_tree: Health | ❤️❤️❤️❤️❤️❤️❤️❤️❤️ |
 | :fire: Attack power | 🐍 Python ❤️❤️❤️ 🌀 R ❤️❤️❤️ 🍂 SQL ❤️❤️❤️ |
 | :boom: Hidden power | 🐼 pandas ↪️ numpy 📈 matplotlib 📊 seaborn 📉 plotly <br> 🌲 sklearn 🔥 pytorch 🧹 wandb | 
-| :seedling: XP | 173/180  <br> ✅✅✅✅✅⬜| 
+| :seedling: XP | 185/180  <br> ✅✅✅✅✅✅| 
 | :unlock: Drops | Data Science Tear (0 - 2) |
 | 🔐 Hidden Drops | M-O |
 
